@@ -1,0 +1,157 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: border-box;
+    background-color: #f2f1f6;
+
+}
+
+.box1{
+    width: 80%;
+    display: flex;
+    height: 100px;
+    padding-left: 40px;
+    padding-top: 15px;
+    background-color: #fff;
+}
+
+.box1 img{
+    border: 2px solid;
+    border-radius: 50%;
+    border-image: auto;
+    height: 70px;
+    width: 70px;
+    background-color: #fff;
+}
+
+.box1 h2{
+    display:block;
+    background-color: #fff;
+    color: #0f1111;
+
+}
+
+.box1 p{
+    background-color: #fff;
+    color: #0f1111;
+}
+.text1{
+    padding-left: 25px;
+    padding-top: 10px;
+    background-color: #fff;
+}
+
+.profile1{
+    background-color: #fff;
+    display: flex;
+}
+
+.school{
+    display: flex;
+    justify-content: left;
+    text-align: center;
+    background-color: #fff;
+    padding-left: 40px;
+}
+
+.main1{
+    background-color: #fff;
+    width: 73%;
+    height: 1130px;
+    margin: 40px 200px;
+}
+
+.img1{
+    height: 600px;
+}
+
+.comment{
+    background-color: #fff;
+    color: #2270df;
+    padding-left: 40px;
+    /* display: flex; */
+}
+
+button{
+    background-color: #2270df; 
+    color: #fff;
+    border: 1px solid #2270df;
+    border-radius: 3px;
+    margin-left: 750px;
+}
+
+.boostingarea{
+    background-color: #fff;
+    display: flex;
+    border-bottom: #f2f1f6;
+    padding-bottom: 10px;
+}
+
+.emojiarea{
+    background-color: #fff;
+    display: flex;
+    padding: 30px;
+
+}
+
+.emojiarea p{
+    background-color: #fff;
+}
+
+.share{
+    padding-left: 800px;
+}
+
+.likecommentshare{
+    display: flex;
+    padding-top: 30px;
+    background-color: #fff;
+    padding-bottom: 10px;
+}
+.like{
+    background-color: #fff;
+    height: 50px;
+    /* padding-top: 30px; */
+    padding-left: 40px;
+}
+
+.comment2{
+    background-color: #fff;
+    height: 50px;
+    padding-left: 300px;
+}
+
+.share2{
+    background-color: #fff;
+    padding-left: 330px;
+}
+
+.lst{
+    background-color: #fff;
+    border: 1px;
+    padding-top: 20px;
+    padding-left: 40px;
+    display: flex;
+    /* border-radius: 50%; */
+}
+.lst img{
+    height: 40px;
+    width: 50px;
+    background-color: #fff;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.input1{
+    height: 40px;
+    width: 80%;
+    padding-left: 10px;
+    border: none;
+}
+
+.input2{
+   width: 80px;
+   padding-top: 10px;
+   padding-left: 15px;
+   text-align: center;
+}
